@@ -31,7 +31,8 @@ http://127.0.0.1:8000
 
 1. Landing Page
 
-![image](https://github.com/lee0188/Readme-test/blob/main/Readme/LandingPage.png)
+
+<div align = center><img width ="300" height = "300" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/LandingPage.png">
 
 2. Search Result
 
