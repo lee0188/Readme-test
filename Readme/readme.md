@@ -32,11 +32,11 @@ http://127.0.0.1:8000
 1. Landing Page
 <img width ="ˇ386" height = "297" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/LandingPage.png">
 2. Search Result
-<img width ="ˇ311" height = "162" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/search%20result%20library.png">
-<img width ="ˇ311" height = "162" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/search%20result.png">
+<img width ="ˇ622" height = "324" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/search%20result%20library.png">
+<img width ="ˇ622" height = "324" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/search%20result.png">
 3. Sign up
-<img width ="ˇ328" height = "96.5" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/signup.png">
+<img width ="ˇ656" height = "193" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/signup.png">
 4. Sign in
-<img width ="ˇ318.5" height = "181.25" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/login.png">
+<img width ="637" height = "362.5" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/login.png">
 5. Favorites
 
