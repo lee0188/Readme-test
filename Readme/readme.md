@@ -30,10 +30,7 @@ http://127.0.0.1:8000
 ## Demo
 
 1. Landing Page
-
-
-<div align = center><img width ="300" height = "300" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/LandingPage.png">
-
+<img width ="ˇ386" height = "297" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/LandingPage.png">
 2. Search Result
 
 ![image](https://github.com/lee0188/Readme-test/blob/main/Readme/search%20result%20library.png)
