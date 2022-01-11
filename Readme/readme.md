@@ -1,8 +1,15 @@
 ## 就是書要你 Book Hunting
 
 A website to find book resources you need.
-
 找到你所需的圖書資源
+
+## Used Module
+
+* Web Crawling(Request/BeautifulSoup/Selenium)
+* Front-End(HTML/CSS/Javascript)
+* Back-End(Django)
+* SQL Database(MySQL)
+
 ## Installation
 
 Use the git clone
@@ -40,3 +47,5 @@ http://127.0.0.1:8000
 <img width ="637" height = "362.5" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/login.png">
 5. Favorites
 
+6. Search Process
+7. Sign in Process
