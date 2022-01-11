@@ -1,7 +1,12 @@
 ## 就是書要你 Book Hunting
 
 A website to find book resources you need.
+Link : 
 找到你所需的圖書資源
+
+* Search the keyword and return results from both municiple library and Berkley online store
+* Member system  that can manage your data
+* Useful cookies for your convenience
 
 ## Used Module
 
