@@ -51,6 +51,5 @@ http://127.0.0.1:8000
 4. Sign in
 <img width ="637" height = "362.5" src ="https://github.com/lee0188/Readme-test/blob/main/Readme/login.png">
 5. Favorites
-
 6. Search Process
 7. Sign in Process
